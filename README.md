@@ -42,6 +42,8 @@ So A Hacker has everything A Noob Has and more!
 3.[codecademy](http://codecademy.com)
 4.[codeschool](http://codeschool.com)
 5.[Rails Video Tutorials!](http://ruby.railstutorial.org/ "Michael Hartl's legendary RailsTuts")
+6.[Rails for Zombies](railsforzombies.org)
+7.[Try Ruby!](http://www.tryruby.org)
 ##Framework Documentation
 1.[Ember.JS: A Neat Front-End MVC](https://www.google.com "Ember's Homepage")
 2.[ZurbFoundationFramework](http://foundation.zurb.com "A responsive CSS/JS package")
